@@ -28,7 +28,6 @@
 				<form>
 					<input type="text" placeholder="Full Name" class="contact-in-input">
 					<input type="text" placeholder="Email" class="contact-in-input">
-					<input type="text" placeholder="Subject" class="contact-in-input">
 					<textarea placeholder="Message" class="contact-in-textarea"></textarea>
 					<input type="submit" value="SUBMIT" class="contact-in-btn">
 				</form>
